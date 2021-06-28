@@ -1,5 +1,5 @@
 ### mmu-java
-project which simulate the computer mmu algorithm.\n
+project which simulate the computer mmu algorithm.
 this project is divided into some parts:
 ### part 1
 at this part I built the basic parts of the mmu - algorithms whose role is to advise the mmu how to paginate the pages

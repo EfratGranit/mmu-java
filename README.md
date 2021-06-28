@@ -8,4 +8,4 @@ at this part I relized the two parts of main and cache, and added the implement 
 ### part 3
 at this part I added a system which activates client and server, the server simulates the os which gets requests from threads to use memory, and allocates the memory using part 2 and the basic algorithms of part 1. the client simulates the threads, and send requests to get memory pages.
 ### part 4
-at this part I added gui system which lets the user run the client with nice and intuitive user interface
+at this part I added gui system which lets the user run the client side with clever and intuitive user interface

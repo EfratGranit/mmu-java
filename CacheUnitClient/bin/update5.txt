@@ -1,0 +1,8 @@
+{ "headers":
+	{"action":"UPDATE"},
+"body":
+	[{"id":10,
+	 "content":"page ten"},{"id":2,
+	 "content":"page two"}
+]
+}
